@@ -1,5 +1,3 @@
-### Hi
-
 # I'm Sam
 
 I'm a fractional head of product and growth in San Francisco, working with AI, hardware and consumer startups. I build my own tools and prototypes.
